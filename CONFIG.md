@@ -26,7 +26,7 @@ aolubi
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
 - -モブレ -モブリ -生存if -転生 -巨中 -巨小 -巨高 -スクカ -バンド -コスプレ -cosplay -過去絵 -エレリ -えれり -エレミカ -えれみか -モブハン -モ○ハン -モ○ハン -もぶはん -リヴァエル -リヴァエレ -ピクハン -ハンピク -リヴァペト -りばぺと -eruri -ereri -mbhn -フロハン -ふろはん -ジャンハン -じゃんはん -アルアニ -山小屋 -リヴァミカ -りばみか -ジクリ -リヴァジク -えるり -え◯り -え○り -エ◯リ -エ○リ -エルリ リヴァハン
-- りばはん
+- メガ恋22
 
 # denyList
 

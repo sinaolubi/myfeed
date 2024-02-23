@@ -32,7 +32,7 @@ aolubi
 >
 > - did:plc:1234
 > - @spamspamspam.bsky.social
-- エルリ
+- 消去法
 
 # safeMode
 

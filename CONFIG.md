@@ -3,19 +3,19 @@
 
 > This is the feed's ID which can be letters, numbers, or dashes. Spaces are not allowed. Maximum length is 15 characters.
 
-test
+aolubi
 
 # displayName
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-テスト運用
+aolubi
 
 # description
 
 > This is the description of the feed.
 
-テスト運用
+aolubi
 
 # searchTerms
 
@@ -25,7 +25,10 @@ test
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- #リヴァハン
+- リヴァハン
+- りばはん
+- メガ恋
+- メガ想
 
 # denyList
 
@@ -33,6 +36,16 @@ test
 >
 > - did:plc:1234
 > - @spamspamspam.bsky.social
+
+- 総受け
+- 転生
+- 生存if
+- モブレ
+- 巨中
+- スクカ
+- 地雷
+- えるり
+- エルリ
 
 # safeMode
 

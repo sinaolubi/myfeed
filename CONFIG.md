@@ -25,8 +25,7 @@ aolubi
 > - Users: links such as `https://bsky.app/profile/why.bsky.team` will pull in the user's posts. To include replies and reposts, you can add the following flags: `https://bsky.app/profile/why.bsky.team +replies +reposts`.
 > - Pinned posts: links such as `https://bsky.app/profile/saddymayo.bsky.social/post/3jxju2wwap22e` will pin at the top of the feed. One link per line, please.
 
-- -モブレ -モブリ -生存if -転生 -巨中 -巨小 -巨高 -スクカ -バンド -コスプレ -cosplay -過去絵 -エレリ -えれり -エレミカ -えれみか -モブハン -モ○ハン -モ○ハン -もぶはん -リヴァエル -リヴァエレ -ピクハン -ハンピク -リヴァペト -りばぺと -eruri -ereri -mbhn -フロハン -ふろはん -ジャンハン -じゃんはん -アルアニ -山小屋 -リヴァミカ -りばみか -ジクリ -リヴァジク -えるり -え◯り -え○り -エ◯リ -エ○リ -エルリ リヴァハン
-- メガ恋 イベント
+- -モブレ -モブリ -生存if -転生 -巨中 -巨小 -巨高 -スクカ -バンド -コスプレ -cosplay -過去絵 -えれり -エレミカ -えれみか -モブハン -モ○ハン -モ○ハン -もぶはん -リヴァエル -リヴァエレ -ピクハン -ハンピク -リヴァペト -りばぺと -eruri -ereri -mbhn -フロハン -ふろはん -ジャンハン -じゃんはん -アルアニ -山小屋 -リヴァミカ -りばみか -ジクリ -リヴァジク -えるり -え◯り -え○り -エ◯リ -エ○リ -エレリ -エルリ リヴァハン
 
 # denyList
 

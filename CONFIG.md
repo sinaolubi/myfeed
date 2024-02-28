@@ -9,13 +9,13 @@ aolubi
 
 > This is the title of the custom feed. Maximum length is 24 characters.
 
-aolubi
+lbD
 
 # description
 
 > This is the description of the feed.
 
-aolb
+
 
 # searchTerms
 

@@ -35,6 +35,7 @@ lbg
 > - @spamspamspam.bsky.social
 - @mai112755.bsky.social
 - @haidilaoyue.bsky.social
+- @ksmgn.bsky.social
 
 # safeMode
 
